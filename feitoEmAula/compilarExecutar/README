@@ -1,0 +1,11 @@
+Compilar:
+
+$ java <nomeArquivo>.java
+
+obs: Ira gerar um arquivo .class (O arquivo terá o nome da classe)
+
+Executar:
+
+$ javac <noveArquivo.class>
+
+obs: Apenas o nome do arquivo sem o .class

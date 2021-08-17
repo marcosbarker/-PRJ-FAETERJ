@@ -1,2 +1,2 @@
-# -PRJ-FAETERJ
+# PRJ-FAETERJ
 Programação em Java.

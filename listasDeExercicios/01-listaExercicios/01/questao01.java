@@ -1,0 +1,10 @@
+a) final char MASCULINO = M;
+b) double milimetrosChuva = mC;
+c) final char feminino = F;
+d) long estrelasNoCeu = estC;
+e) float altPessoa = altP;
+f) int idadePessoa = idadeP;
+g) float notaDisc = nt;
+h) final float JUROS_CP = 0.0035;
+i) final int HORAS_COM_DIA = 8;
+j) final double PI = 3.14159;

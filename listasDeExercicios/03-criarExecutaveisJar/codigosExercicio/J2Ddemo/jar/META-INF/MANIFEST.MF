@@ -1,0 +1,2 @@
+Main-class: java2d.J2Ddemo
+

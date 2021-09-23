@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/marcos/Desktop/exercicioNotaFiscalLeitura/.metadata/.plugins/org.eclipse.jdt.core
+1831665248.index
+2372438099.index

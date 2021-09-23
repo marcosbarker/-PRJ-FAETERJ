@@ -1,0 +1,129 @@
+PANO SCOTT DURAM C/1 (Código: 934340001 )
+Qtde.:1UN: PCVl. Unit.:   10,7	Vl. Total
+10,70
+PANO SCOTT DURAM C/1 (Código: 934340001 )
+Qtde.:1UN: PCVl. Unit.:   10,7	Vl. Total
+10,70
+MAC URB 500G PARAF (Código: 1235220001 )
+Qtde.:1UN: PCVl. Unit.:   2,69	Vl. Total
+2,69
+MAC URB 500G PARAF (Código: 1235220001 )
+Qtde.:1UN: PCVl. Unit.:   2,69	Vl. Total
+2,69
+MAC URB 500G PARAF (Código: 1235220001 )
+Qtde.:1UN: PCVl. Unit.:   2,69	Vl. Total
+2,69
+MAC URB 500G PARAF (Código: 1235220001 )
+Qtde.:1UN: PCVl. Unit.:   2,69	Vl. Total
+2,69
+MAC URB 500G PARAF (Código: 1235220001 )
+Qtde.:1UN: PCVl. Unit.:   2,69	Vl. Total
+2,69
+MAC URB 500G PARAF (Código: 1235220001 )
+Qtde.:1UN: PCVl. Unit.:   2,69	Vl. Total
+2,69
+MAC URB 500G PENA (Código: 1235230001 )
+Qtde.:10UN: PCVl. Unit.:   2,69	Vl. Total
+26,90
+PAO S/GLUT JASM 350G (Código: 10619110001 )
+Qtde.:1UN: UnVl. Unit.:   15,95	Vl. Total
+15,95
+PAO S/GLUT JASM 350G (Código: 11228910001 )
+Qtde.:1UN: UnVl. Unit.:   15,95	Vl. Total
+15,95
+PAO S/GLUT JASM 350G (Código: 10619110001 )
+Qtde.:1UN: UnVl. Unit.:   15,95	Vl. Total
+15,95
+PAO S/GLUT JASM 350G (Código: 10619110001 )
+Qtde.:1UN: UnVl. Unit.:   15,95	Vl. Total
+15,95
+PAO S/GLUT JASM 350G (Código: 11228910001 )
+Qtde.:1UN: UnVl. Unit.:   15,95	Vl. Total
+15,95
+PAO S/GLUT JASM 350G (Código: 11228910001 )
+Qtde.:1UN: UnVl. Unit.:   15,95	Vl. Total
+15,95
+MAC URB 500G ESPAG (Código: 10861320001 )
+Qtde.:8UN: UnVl. Unit.:   2,69	Vl. Total
+21,52
+CATCH HEINZ 397G TRA (Código: 807880001 )
+Qtde.:1UN: UnVl. Unit.:   10,9	Vl. Total
+10,90
+CATCH HEINZ 397G TRA (Código: 807880001 )
+Qtde.:1UN: UnVl. Unit.:   10,9	Vl. Total
+10,90
+CATCH HEINZ 397G TRA (Código: 807880001 )
+Qtde.:1UN: UnVl. Unit.:   10,9	Vl. Total
+10,90
+CATCH HEINZ 397G JAL (Código: 10802960001 )
+Qtde.:1UN: UnVl. Unit.:   10,9	Vl. Total
+10,90
+CATCH HEINZ 397G JAL (Código: 10802960001 )
+Qtde.:1UN: UnVl. Unit.:   10,9	Vl. Total
+10,90
+CATCH HEINZ 397G JAL (Código: 10802960001 )
+Qtde.:1UN: UnVl. Unit.:   10,9	Vl. Total
+10,90
+AZ SERRATA E V 500ML (Código: 775160001 )
+Qtde.:1UN: UnVl. Unit.:   18,8	Vl. Total
+18,80
+AZ SERRATA E V 500ML (Código: 775160001 )
+Qtde.:1UN: UnVl. Unit.:   18,8	Vl. Total
+18,80
+AZ SERRATA E V 500ML (Código: 775160001 )
+Qtde.:1UN: UnVl. Unit.:   18,8	Vl. Total
+18,80
+AZ SABOR VERDE 200G (Código: 804340001 )
+Qtde.:1UN: PtVl. Unit.:   5,79	Vl. Total
+5,79
+AZ SABOR VERDE 200G (Código: 804340001 )
+Qtde.:1UN: PtVl. Unit.:   5,79	Vl. Total
+5,79
+AZ SABOR VERDE 200G (Código: 804340001 )
+Qtde.:1UN: PtVl. Unit.:   5,79	Vl. Total
+5,79
+AZ V RAIOLA 155G S/C (Código: 10183570001 )
+Qtde.:1UN: UnVl. Unit.:   8,3	Vl. Total
+8,30
+AZ V RAIOLA 155G S/C (Código: 10183570001 )
+Qtde.:1UN: UnVl. Unit.:   8,3	Vl. Total
+8,30
+AZ V RAIOLA 155G S/C (Código: 10183570001 )
+Qtde.:1UN: UnVl. Unit.:   8,3	Vl. Total
+8,30
+TOALHA COQ L180P160F (Código: 10521620001 )
+Qtde.:1UN: PCVl. Unit.:   4,79	Vl. Total
+4,79
+TOALHA COQ L180P160F (Código: 10521620001 )
+Qtde.:1UN: PCVl. Unit.:   4,79	Vl. Total
+4,79
+SUCO N ONE 900MLCAJU (Código: 11497760001 )
+Qtde.:1UN: UnVl. Unit.:   8,85	Vl. Total
+8,85
+SUCO N ONE 900MLCAJU (Código: 11497760001 )
+Qtde.:1UN: UnVl. Unit.:   8,85	Vl. Total
+8,85
+SUCO N ONE 900MLCAJU (Código: 11497760001 )
+Qtde.:1UN: UnVl. Unit.:   8,85	Vl. Total
+8,85
+SELETA SEARA 1,05kg (Código: 11212760001 )
+Qtde.:1UN: PCVl. Unit.:   10,99	Vl. Total
+10,99
+SB PO RUTH COCO 500G (Código: 689000001 )
+Qtde.:1UN: PCVl. Unit.:   11,9	Vl. Total
+11,90
+LOMBO FRIMES PED kg (Código: 1031190001 )
+Qtde.:1,662UN: KgVl. Unit.:   21,8	Vl. Total
+36,23
+LOMBO FRIMES PED kg (Código: 1031190001 )
+Qtde.:1,744UN: KgVl. Unit.:   21,8	Vl. Total
+38,01
+ALCAP RAIOLA 65G (Código: 11342170001 )
+Qtde.:1UN: UnVl. Unit.:   10,8	Vl. Total
+10,80
+AP BIC SOLEIL C/2 (Código: 10218620001 )
+Qtde.:1UN: CtVl. Unit.:   7,85	Vl. Total
+7,85
+AGUA SANIT YPE 1LT (Código: 895450001 )
+Qtde.:1UN: UnVl. Unit.:   3,98	Vl. Total
+3,98

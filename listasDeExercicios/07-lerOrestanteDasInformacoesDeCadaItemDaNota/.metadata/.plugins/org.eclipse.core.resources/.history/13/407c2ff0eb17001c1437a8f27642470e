@@ -1,0 +1,30 @@
+package faeterj.prj.pedido;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class CarregadorDeItensDePedido {
+
+	private String nomeArquivo;
+	
+	public CarregadorDeItensDePedido(String nomeArquivo) {
+		this.nomeArquivo = nomeArquivo;
+	}
+	
+	
+	public List<ItemPedido> carregarItens() throws IOException {		
+		Scanner sc = new Scanner(new FileInputStream(this.nomeArquivo));
+		
+		List<ItemPedido> itens = new ArrayList<ItemPedido>();
+		while (sc.hasNext()) {
+			ItemPedido ip = new ItemPedido();
+			ip.carregar(sc);
+			itens.add(ip);			
+		}
+		return itens;
+	}
+	
+}

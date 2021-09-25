@@ -1,9 +1,14 @@
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JTextField;
+import javax.swing.BorderFactory;
 import javax.swing.JButton;
 //import java.awt.FlowLayout;
 import java.awt.GridLayout;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
@@ -22,7 +27,8 @@ public class ConversorTemp {
     frmJanela.setLocationRelativeTo(null);
 
     JPanel painel = new JPanel();
-    painel.setBorder(new EmptyBorder(10,10,10,10));
+    //painel.setBorder(new EmptyBorder(10,10,10,10));
+    painel.setBorder(BorderFactory.createEmptyBorder(10,10,10,10));
     frmJanela.setContentPane(painel);
 
     //frmJanela.setLayout(new FlowLayout());
@@ -42,6 +48,17 @@ public class ConversorTemp {
   
     btnConverter = new JButton();
     btnConverter.setText("Converter");
+    btnConverter.addActionListener((actionEvent) -> {
+      try{
+      double f = Double.parseDouble(txtFanhereit.getText());
+      double c = (f - 32) * 5.0/9.0;
+      c = new BigDecimal(c).setScale(2, RoundingMode.HALF_UP).doubleValue();
+      lblCelsius.setText(String.valueOf(c) + " C");
+      
+      } catch (NumberFormatException e) {
+        JOptionPane.showMessageDialog(null, "Digite um número", "Ops!", JOptionPane.ERROR_MESSAGE);
+      }
+    });
     frmJanela.add(btnConverter);
 
     lblCelsius = new JLabel();

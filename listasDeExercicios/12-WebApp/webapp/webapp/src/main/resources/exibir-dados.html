@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bilhete de Onibus</title>
+</head>
+<body>
+	<div align="center">
+		<h1>Dados do Passageiro</h1>
+		<p>Passageiro: $passageiro</p>
+		<p>CPF: $cpf</p>
+	</div>
+	<br>
+	<div align="center">
+		<h1>Dados do Bilhete</h1>
+	    <p>Codigo: $codigo</p>
+	    #if ($assento)
+	    	<p>Assento: $assento</p>
+	        <p>Data da Compra: $data</p>
+	        <p>Origem: $origem</p>
+	        <p>Destino: $destino</p>
+	        <p>Hora do Embarque: $horaEmbarque</p>
+	        <p>Hora da Partida: $horaPartida</p>
+	    #else
+	        <p>Assento não marcado!</p>
+	    #end
+    </div>
+    <a href="/atualizar-dados?bilhete=$codigo">Atualizar os dados</a>
+    <a href="/marcar-assento?bilhete=$codigo">Próximo</a>
+</body>
+</html>

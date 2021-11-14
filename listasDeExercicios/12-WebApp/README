@@ -1,0 +1,9 @@
+Vavatur na web
+
+Modifique o projeto a seguir para que a página confirmar dados exiba de fato os dados do bilhete:
+
+
+O sistema exibe as informações do bilhete, como origem, destino, hora prevista do
+embarque, hora prevista da partida, a hora do relógio da parede (para o usuário se
+planejar); as informações do passageiro, que no caso, são nome e cpf; e as opções:
+“atualizar dados pessoais” e “próximo”.
